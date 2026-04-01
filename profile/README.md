@@ -7,7 +7,7 @@ Modern DLC management tool for The Sims 4
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 Releases Page]() = `*Latest Release as of now*`
+- [💾 Releases Page](https://github.com/Sims4-DLCUnlocker/.github/releases) = `*Latest Release as of now*`
 
 ---
 
